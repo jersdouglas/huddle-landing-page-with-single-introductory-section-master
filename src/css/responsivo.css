@@ -1,0 +1,32 @@
+@media (max-width: 1280px){
+    body{
+        background: #674baf url('../images/bg-mobile.svg') center center no-repeat;
+        background-size: cover;
+    }
+    header .logo{
+        width: 200px;
+    }
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    main img{
+        padding: 5%;
+    }
+    main .info{
+        margin: 5% auto;
+    }
+    .info h1,
+    .info p{
+        text-align: center;
+    }
+    .info a{
+        display: inline-block;
+    }
+    footer{
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        margin-top: 10%;
+    }
+}

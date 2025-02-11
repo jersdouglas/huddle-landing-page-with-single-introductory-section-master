@@ -8,8 +8,8 @@
 
 ## Cores para serem usadas no projeto 
 
-- Violet: hsl(257, 40%, 49%);
-- Soft Magenta: hsl(300, 69%, 71%);
+- Violet: #674baf;
+- Soft Magenta: rgb(232, 130, 232);
 
 ## Icones
 - [Icones do FontAwesome](https://fontawesome.com/v5/search)
